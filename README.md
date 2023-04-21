@@ -1,2 +1,2 @@
 # Thyroid-Disease-Classification
-video demonstration-https://drive.google.com/file/d/1seqMTAJdtny99YfrP7Kk0_fNuy40VRH_/view?usp=drivesdk
+video demonstration-https://drive.google.com/drive/folders/1sXa_-pPneRl249WM9JyJcrOY9-gczI0n
